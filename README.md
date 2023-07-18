@@ -13,8 +13,10 @@ Sensitivity analyses:
 
 Sensitivity analyses were conducted to estimate a range of sepsis deaths averted and newly antibiotic-treated patients and adverse events per sepsis death averted. The code follows the same structure as above, separately for the lower and upper bounds of the time-to-antibiotics estimate.
 
+Lower Bounds
 * Step 1: abxtimingsim_step1_lower.do 
 * Step 2: abxtimingsim_step2_lower.R
 
+Upper Bounds
 * Step 1: abxtimingsim_step1_upper.do 
 * Step 2: abxtimingsim_step2_upper.R 
