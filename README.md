@@ -7,7 +7,7 @@ This repository contains code needed to perform the simulations and data analysi
 The code is structured in two steps:
 
 * Step 1: abxtimingsim_step1.do - dataset preparation for step 2 simulations; tables 1-2
-* Step 2: abxtimingsim_step2.R - simulations; output of results for tables 3-5 (R script)
+* Step 2: abxtimingsim_step2.R - simulations; tables 3-5
 
 Sensitivity analyses:
 
