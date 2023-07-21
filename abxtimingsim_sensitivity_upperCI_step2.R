@@ -2,7 +2,7 @@
 # Project:      Simulations - Using upper confidence interval of 
 #                   time to abx for probabilities
 #
-# Author:       Sarah Seelye
+# Author:       Sarah Seelye (adapted from code by Brenda Vincent)
 #
 # Date Updated: 2023 July 19
 ##########################################################################
