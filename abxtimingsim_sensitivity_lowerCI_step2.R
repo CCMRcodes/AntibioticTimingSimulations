@@ -2,7 +2,7 @@
 # Project:      Simulations - Using lower confidence interval of 
 #                   time to abx for probabilities
 #
-# Author:       Sarah Seelye (adapted from code by Brenda Vincent)
+# Author:       Sarah Seelye (adapted from code by Brenda McGrath)
 #
 # Date Updated: 2023 July 19
 ##########################################################################
